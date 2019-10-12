@@ -1,45 +1,73 @@
-,name,ingredients,ingredient_ids
-837,arancini   italian rice balls,"['eggs', 'cooked rice', 'butter', 'parmesan cheese', 'garlic', 'fresh parsley', 'seasoning salt', 'ground black pepper', 'mozzarella cheese', 'oil', 'flour', 'fine dry breadcrumb']","[2499, 1746, 840, 5180, 3184, 2856, 6374, 3486, 4836, 4987, 2683, 2620]"
-4562,easy fattoush salad,"['cucumber', 'garlic cloves', 'of fresh mint', 'fresh parsley', 'lime, juice of', 'dried oregano', 'salt and pepper', 'rice vinegar', 'olive oil', 'roma tomato', 'pita bread', 'garlic salt']","[2001, 3203, 4985, 2856, 4403, 2320, 6276, 6082, 5006, 6160, 5469, 3219]"
-8669,alan s tandoori chicken,"['chicken breasts', 'tandoori paste', 'yogurt', 'lime, juice of', 'garlic']","[1252, 7079, 7998, 4403, 3184]"
-22085,mexican tacos al pastor,"['pasilla chiles', 'guajillo chilies', 'garlic head', 'white vinegar', 'cumin', 'whole cloves', 'salt', 'fresh pineapple', 'pork', 'onion', 'fresh cilantro', 'limes', 'tortillas']","[1316, 3562, 3207, 7799, 2007, 7821, 6270, 2864, 5561, 5010, 2777, 4379, 7258]"
-30560,croquetas,"['eggs', 'flour', 'paprika', 'olive oil', 'salt and pepper', 'milk', 'ham', 'onion', 'breadcrumbs']","[2499, 2683, 5168, 5006, 6276, 4717, 3597, 5010, 728]"
-34509,best pizza margherita,"['pizza dough', 'san marzano tomatoes', 'dried oregano', 'extra virgin olive oil', 'salt & freshly ground black pepper', 'buffalo mozzarella', 'basil leaves']","[5483, 6304, 2320, 5006, 6272, 4836, 384]"
-42002,acadia s ratatouille,"['extra virgin olive oil', 'onion', 'garlic', 'red bell pepper', 'yellow bell pepper', 'basil', 'oregano', 'parsley', 'crushed tomatoes', 'zucchini', 'yellow squash', 'red pepper flakes', 'kosher salt', 'parmesan cheese']","[5006, 5010, 3184, 5915, 7962, 382, 5106, 5185, 1987, 8021, 7987, 5975, 4096, 5180]"
-42350,boneless breast of chicken saltimbocca,"['boneless skinless chicken breasts', 'flour', 'all-purpose flour', 'clarified butter', 'prosciutto ham', 'monterey jack cheese', 'shallot', 'garlic', 'mushroom', 'dry white wine', 'chicken broth', 'fresh thyme', 'oregano leaves', 'dry sherry', 'cream', 'salt and pepper']","[1252, 2683, 63, 1551, 5726, 4814, 6426, 3184, 4863, 2461, 1257, 2909, 5108, 2451, 1909, 6276]"
-45067,amanda milk chocolate frosting,"['butter', 'unsweetened cocoa', ""confectioners' sugar"", 'milk', 'vanilla extract']","[840, 7406, 1689, 4717, 7470]"
-53655,ariana s pozole,"['pork shoulder', 'hominy', 'ancho chilies', 'guajillo chilies', 'garlic', 'black pepper', 'salt', 'cabbage', 'radish', 'white onion', 'fresh cilantro', 'lime', 'red chili pepper flakes', 'oregano']","[5610, 3720, 122, 3562, 3184, 590, 6270, 893, 5812, 7770, 2777, 4379, 5931, 5106]"
-53766,austrian tafelspitz,"['beef brisket', 'water', 'salt', 'leeks', 'onion', 'carrots', 'celery ribs', 'red potatoes', 'gherkins', 'parsley', 'apple', 'sour cream', 'horseradish']","[436, 7655, 6270, 4227, 5010, 1093, 1130, 5985, 3245, 5185, 150, 6654, 3758]"
-55352,moohammara  muhammara   traditional lebanese appetizer,"['walnuts', 'onion', 'pomegranate molasses', 'roasted red peppers', 'olive oil', 'vegetable oil', 'pita bread']","[7642, 5010, 5539, 6129, 5006, 7557, 5469]"
-57778,beef bourguignon,"['butter', 'small mushroom', 'onions', 'boneless lean beef', 'all-purpose flour', 'beef stock', 'dry red wine', 'tomato paste', 'garlic cloves', 'salt', 'dried thyme', 'bay leaf', 'pepper', 'parsley']","[840, 6542, 5010, 4182, 63, 485, 2445, 7229, 3203, 6270, 2378, 393, 5319, 5185]"
-66302,bademjan   delicious persian stew,"['eggplant', 'lamb', 'tomato paste', 'lemon', 'onion', 'turmeric', 'sugar']","[2516, 4110, 7229, 4231, 5010, 7337, 6906]"
-69637,cheeky chicken tikka masala,"['boneless skinless chicken breasts', 'ground ginger', 'garlic cloves', 'ground cumin', 'ground coriander', 'cayenne pepper', 'salt', 'fresh cracked pepper', 'fresh cilantro', 'fresh lime juice', 'olive oil', 'onion', 'red jalapeno chile', 'coconut milk', 'fresh lemon juice']","[1252, 3512, 3203, 3502, 3500, 1119, 6270, 2789, 2777, 2837, 5006, 5010, 1316, 1607, 2832]"
-77460,black bean and chicken chilaquiles,"['cooking spray', 'onion', 'garlic cloves', 'cooked chicken breasts', 'black beans', 'reduced-sodium fat-free chicken broth', 'salsa de chile fresco', 'corn tortillas', 'queso blanco']","[1786, 5010, 3203, 1708, 553, 1257, 1316, 7258, 5786]"
-80069,tartiflette,"['cheese', 'potato', 'lardons', 'onion', 'butter', 'white wine', 'cream', 'salt', 'pepper']","[1170, 5648, 4143, 5010, 840, 7801, 1909, 6270, 5319]"
-82072,golden jeweled rice  low fat,"['quick-cooking brown rice', 'broth', 'turmeric', 'dried apricot', 'dried cranberries']","[790, 773, 7337, 2206, 2251]"
-89307,bucatini all amatriciana,"['extra virgin olive oil', 'bacon', 'red onion', 'garlic cloves', 'hot red pepper flakes', 'tomato sauce', 'bucatini pasta', 'pecorino romano cheese']","[5006, 298, 5966, 3203, 3805, 7233, 813, 5309]"
-91513,30 minute chicken tamales,"['masa harina flour', 'chicken broth', 'corn oil', 'salt', 'baking powder', 'chicken', 'green tomatillo sauce', 'corn husk']","[4604, 1257, 1819, 6270, 332, 1240, 3462, 1813]"
-94017,pan con tomate,"['crusty bread', 'garlic cloves', 'tomatoes', 'extra virgin olive oil', 'sea salt']","[1990, 3203, 7213, 5006, 6352]"
-98049,terribly impressive   chorizo puffs,"['chorizo sausages', 'olive oil', 'water', 'butter', 'salt', 'plain flour', 'eggs']","[6324, 5006, 7655, 840, 6270, 5495, 2499]"
-99119,mock a mole   low fat guacamole,"['frozen peas', 'hass avocado', 'salt', 'lemons, juice of', 'tomatoes', 'onion', 'cilantro']","[3046, 3637, 6270, 4302, 7213, 5010, 1505]"
-101506,leek stewpot with sausages  swiss papet vaudois,"['butter', 'onion', 'leek', 'garlic cloves', 'rosemary', 'chicken broth', 'white wine', 'potatoes', 'salt', 'black pepper', 'pork sausage']","[840, 5010, 4227, 3203, 6183, 1257, 7801, 5648, 6270, 590, 6324]"
-103548,ally style pasta carbonara,"['tagliatelle pasta noodles', 'cooked ham', 'cheddar cheese', 'milk', 'cornflour']","[7062, 1723, 1168, 4717, 1828]"
-106221,perfect  chocolate frosting,"['semisweet chocolate', 'heavy cream', 'butter', ""confectioners' sugar""]","[1375, 3668, 840, 1689]"
-108875,amy s lasagne with a white and red sauce,"['butter', 'flour', 'milk', 'heavy cream', 'ground nutmeg', 'ground beef', 'spaghetti sauce', 'lasagna noodle', 'mozzarella cheese']","[840, 2683, 4717, 3668, 3527, 3484, 6711, 4155, 4836]"
-118488,italian sandwich  pasta salad,"['tri-color spiral pasta', 'dill pickles', 'ripe olives', 'green onion', 'chives', 'sweet pepper', 'water chestnut', 'tomatoes', 'ham', 'cheese', 'olive oil', 'cider vinegar', 'onion powder', 'garlic powder', 'salt and pepper', 'italian seasoning']","[7265, 5365, 5002, 6335, 1372, 6985, 7656, 7213, 3597, 1170, 5006, 1504, 5024, 3217, 6276, 3940]"
-122615,a different tiramisu,"['ricotta cheese', 'icing sugar', 'fat free sour cream', 'coffee liqueur', 'jellied cranberry sauce', 'cookies', 'chocolate']","[6085, 3834, 6654, 1632, 3983, 1778, 1375]"
-122781,ful medames   egyptian fava beans,"['dried fava beans', 'garlic cloves', 'lemon juice', 'olive oil', 'cumin']","[2259, 3203, 4253, 5006, 2007]"
-123036,love is in the air  beef fondue   sauces,"['beef steaks', 'vegetable oil', 'spicy mustard', 'fresh lemon juice', 'honey', 'brown sugar', 'ketchup', 'hot sauce', 'sour cream', 'fresh garlic', 'fresh parsley', 'dried dill weed']","[482, 7557, 6748, 2832, 3723, 800, 4053, 3810, 6654, 2807, 2856, 2258]"
-124211,patatas bravas,"['potato', 'olive oil', 'salt and pepper', 'onion', 'garlic clove', 'chili flakes', 'cumin', 'paprika', 'tomato paste', 'dry white wine', 'tomatoes', 'fresh parsley']","[5648, 5006, 6276, 5010, 3203, 1322, 2007, 5168, 7229, 2461, 7213, 2856]"
-127335,beef rogan josh,"['beef sirloin tip', 'yellow onion', 'diced tomatoes', 'plain nonfat yogurt', 'ground coriander', 'ground cumin', 'cayenne', 'ground turmeric', 'garam masala', 'garlic cloves', 'ginger', 'ghee']","[480, 7979, 2131, 5502, 3500, 3502, 1118, 3550, 3177, 3203, 3248, 3244]"
-129578,ethiopian flat bread  injera,"['self-rising flour', 'whole wheat flour', 'cornmeal', 'active dry yeast', 'water']","[6395, 7887, 1831, 7956, 7655]"
-134399,cottage cheese in spinach gravy palak paneer,"['cottage cheese', 'baby spinach', 'butter', 'cumin seed', 'onions', 'green chili peppers', 'ginger-garlic paste', 'red chili powder', 'coriander powder', 'tomatoes', 'water', 'salt', 'garam masala powder', 'heavy cream', 'cilantro']","[1838, 288, 840, 2010, 5010, 3414, 3264, 5932, 1797, 7213, 7655, 6270, 3178, 3668, 1505]"
-136749,afghani naan  flatbread,"['whole wheat flour', 'salt', 'quick-rising yeast', 'vegetable oil', 'warm water', 'nigella seeds']","[7887, 6270, 7956, 7557, 7650, 4923]"
-142546,esquites,"['sweet corn', 'butter', 'water', 'ground chile piquin powder', 'mayonnaise', 'limes, juice of', 'salt']","[6966, 840, 7655, 1316, 4623, 4409, 6270]"
-142825,basbousa   semolina cakes with syrup,"['sugar', 'water', 'lemon, juice of', 'honey', 'butter', 'eggs', 'vanilla extract', 'semolina', 'baking powder', 'baking soda', 'whole milk', 'almond halve', 'whipped cream']","[6906, 7655, 4287, 3723, 840, 2499, 7470, 6400, 332, 335, 7853, 81, 7702]"
-143289,asparagi alla parmigiana  italian asparagus gratin,"['asparagus', 'butter', 'parmesan cheese', 'salt and pepper']","[221, 840, 5180, 6276]"
-144750,almond fig baklava,"['fresh figs', 'slivered almonds', 'ground cinnamon', 'phyllo dough', 'butter', 'warm water', 'honey', 'water', 'sugar', 'vanilla extract', 'orange rind']","[2801, 4449, 3497, 5357, 840, 7650, 3723, 7655, 6906, 7470, 5068]"
-145930,persian stew   gormeh sabzi,"['lean lamb', 'dried limes', 'garlic cloves', 'water', 'cilantro', 'italian parsley', 'mint', 'spinach', 'mustard greens', 'kidney beans', 'ground cinnamon', 'nutmeg', 'salt and pepper']","[4201, 2302, 3203, 7655, 1505, 3930, 4746, 6754, 4881, 4062, 3497, 4964, 6276]"
-151513,apple tarte tatin,"['butter', 'sugar', 'gala apples', 'puff pastry', 'heavy cream']","[840, 6906, 3170, 5741, 3668]"
-153778,doro wat  ethiopian spicy braised chicken,"['tomato sauce', 'paprika', 'dry red wine', 'gingerroot', 'ground red pepper', 'ground cardamom', 'ground nutmeg', 'ground cloves', 'ground cinnamon', 'ground allspice', 'onions', 'garlic cloves', 'cooking oil', 'ground turmeric', 'salt', 'broiler-fryer chicken', 'flat bread']","[7233, 5168, 2445, 3269, 3536, 3489, 3527, 3498, 3497, 3478, 5010, 3203, 1783, 3550, 6270, 771, 2669]"
-161559,50s classic meatloaf,"['ground beef', 'ground pork', 'eggs', 'seasoned bread crumbs', 'onion', 'green pepper', 'worcestershire sauce', 'pepper', 'salt', 'ketchup', 'brown sugar', 'dijon mustard']","[3484, 3533, 2499, 6363, 5010, 3440, 7946, 5319, 6270, 4053, 800, 2148]"
+,image,nationality,id_recipe,rating,calories,total fat,sugar,sodium,protein,saturated fat,carbohydrates,minutes,original_name
+0,https://c0qzv5k3rl-flywheel.netdna-ssl.com/wp-content/uploads/2019/02/Fesenjan-Recipe-113.jpg,Iranian,91809,-1.0,432.9,62.0,27.0,48.0,15.0,21.0,5.0,75,Fesenjan
+1,https://www.196flavors.com/wp-content/uploads/2017/03/khoresh-bademjan-2.jpg,Iranian,263437,5.0,352.2,18.0,110.0,20.0,43.0,24.0,14.0,90,Bademjan
+2,https://toriavey.com/images/2012/01/Baghali-Polo-Main.jpg,Iranian,427705,-1.0,484.6,15.0,8.0,2.0,24.0,6.0,28.0,90,Baghali Polo 
+3,https://i.pinimg.com/originals/ff/b6/35/ffb6350b2612642f4ccd23bc188ed3e9.jpg,Iranian,448277,-1.0,666.5,45.0,62.0,10.0,13.0,91.0,31.0,130,Zereshk Polo
+4,http://www.anupskitchen.com/wp-content/uploads/2017/03/sabzi-long.jpg,Iranian,425696,4.0,280.5,12.0,9.0,19.0,64.0,16.0,6.0,105,Gormeh Sabzi
+5,https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex2/merlin_154113918_721ff786-e3ef-453f-b3a0-deec1d8f8e02-articleLarge.jpg,Iranian,298125,-1.0,562.9,40.0,15.0,11.0,34.0,28.0,22.0,240,Ash e Reshteh
+6,http://www.raddishes.net/wp-content/uploads/2016/03/DSC_3439_copy-1024x666.jpg,Iranian,157525,5.0,30.6,0.0,20.0,18.0,1.0,0.0,2.0,20,Jeweled Rice 
+7,http://persianmama.com/wp-content/uploads/2015/06/Kabob-Koobideh-4.jpg,Iranian,71886,-1.0,280.2,21.0,123.0,110.0,6.0,9.0,13.0,20,Kebab 
+8,https://i1.wp.com/quitegoodfood.co.nz/wp-content/uploads/2016/02/dolma-4.jpg?fit=750%2C1125&ssl=1,Syrian,183749,-1.0,621.0,48.0,16.0,46.0,95.0,52.0,11.0,70,Dolma 
+9,https://i.ytimg.com/vi/DnWNB0CPc6Q/maxresdefault.jpg,Syrian,439341,3.0,140.2,8.0,54.0,3.0,4.0,9.0,7.0,90,Baklava
+10,https://cdn.ilclubdellericette.it/wp-content/uploads/2019/04/torta-di-mandorle-basbousa-1024x683.jpg,Syrian,173527,5.0,162.0,5.0,88.0,8.0,4.0,11.0,10.0,48,Basbousa 
+11,https://feelgoodfoodie.net/wp-content/uploads/2017/06/Lebanese-Fattoush-Salad-5-1-500x500.jpg,Syrian,280393,4.0,115.6,12.0,5.0,2.0,3.0,5.0,3.0,25,Fattoush 
+12,https://assets.epicurious.com/photos/57b33744fd214db6472a3143/2:1/w_1260%2Ch_630/ful-medames.jpg,Syrian,173528,5.0,704.0,24.0,39.0,0.0,89.0,11.0,33.0,60,Ful Medames 
+13,https://theviewfromgreatisland.com/wp-content/uploads/2018/01/muhamarra-9228-January-13-2018-4.jpg,Syrian,204332,5.0,586.8,98.0,6.0,0.0,4.0,40.0,1.0,10,Muhammara 
+14,https://i0.wp.com/ashleyparamore.com/wp-content/uploads/2019/04/IMG_7269.jpg?fit=750%2C500&ssl=1,Eritrea,172780,-1.0,147.5,0.0,0.0,22.0,8.0,0.0,10.0,17,Injera 
+15,https://assets.tastecooking.com/wp-content/uploads/2018/05/TasteBerbereLasagna0031.jpg,Eritrea,33606,5.0,279.2,14.0,12.0,22.0,23.0,11.0,12.0,25,Pasta
+16,https://static01.nyt.com/images/2017/12/06/dining/06HANUKKAH-REX-SUB/06HANUKKAH-REX-articleLarge.jpg,Eritrea,455567,5.0,642.6,65.0,23.0,43.0,90.0,55.0,4.0,60,Doro Wat 
+17,http://blackfoodie.co/wp-content/uploads/2017/09/Poured-Coffee_-2-1050x704.jpg,Eritrea,316669,4.615384615384615,331.2,16.0,7.0,33.0,103.0,13.0,1.0,255,Coffee
+18,https://www.curiouscuisiniere.com/wp-content/uploads/2019/04/Brazilian-Feijoada-Black-Bean-Stew.jpg,Brazilian,453299,-1.0,330.6,18.0,15.0,10.0,41.0,20.0,11.0,590,Feijoada
+19,https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F1553618584%2FMoqueca-Brazilian-Seafood-Stew-FT-recipe0519.jpg%3Fitok%3DS6mBQHZ5&w=450&c=sc&poi=face&q=85,Brazilian,382112,-1.0,955.2,69.0,308.0,65.0,102.0,131.0,31.0,45,Moqueca
+20,https://previews.123rf.com/images/luizrocha/luizrocha1708/luizrocha170800181/84115597-grilled-picanha-traditional-brazilian-cut-.jpg,Brazilian,488497,-1.0,124.9,20.0,0.0,884.0,0.0,9.0,0.0,25,Picanha
+21,https://static.fanpage.it/wp-content/uploads/sites/21/2017/11/brigadeiro.jpg,Brazilian,343401,-1.0,70.6,3.0,43.0,1.0,3.0,6.0,3.0,60,Brigadeiro
+22,https://www.saborbrasil.it/system/images/imgs/000/000/372/big/farofa_sito.jpg?1512990062,Brazilian,13935,-1.0,58.2,10.0,0.0,1.0,0.0,20.0,0.0,15,Farofa
+23,https://www.vegrecipesofindia.com/wp-content/uploads/2010/01/masala-dosa-recipe-restaurant-style.jpg,Indian,27028,-1.0,498.6,14.0,22.0,0.0,31.0,6.0,29.0,1710,Masala Dosa
+24,https://img.taste.com.au/IanMIS-F/w720-h480-cfill-q80/taste/2017/06/lamb-rogan-josh-127388-1.jpg,Indian,157174,5.0,104.2,10.0,16.0,0.0,5.0,20.0,3.0,70,Rogan Josh
+25,https://www.indianhealthyrecipes.com/wp-content/uploads/2018/04/lassi.jpg,Indian,481431,5.0,1034.7,99.0,57.0,64.0,145.0,121.0,12.0,86,Lassi
+26,https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/chicken-tandori-1526595014.jpg?resize=480:*,Indian,108634,5.0,67.9,5.0,1.0,1.0,15.0,5.0,0.0,40,Tandoori Chicken
+27,https://www.awesomecuisine.com/wp-content/uploads/2008/02/palak_paneer_recipe.jpg,Indian,357820,5.0,357.3,28.0,58.0,174.0,45.0,48.0,9.0,35,Palak paneer
+28,https://www.budgetbytes.com/wp-content/uploads/2010/09/Homemade-Naan-stack-1.jpg,Indian,499504,4.0,6.6,0.0,0.0,36.0,1.0,0.0,0.0,70,Naan
+29,https://s23209.pcdn.co/wp-content/uploads/2019/02/Easy-Chicken-Tikka-MasalaIMG_8253.jpg,Indian,366562,5.0,411.6,41.0,31.0,5.0,61.0,88.0,4.0,30,Chicken Tikka Masala
+30,https://cdn.apartmenttherapy.info/image/upload/v1556570565/k/Photo/Recipes/2019-05-How-To-Chilaquiles/JoeLingeman_2019-04-22_PHOTO_Kitchn65551_HT_Chilaquiles.jpg,Mexican,199655,5.0,305.2,8.0,6.0,2.0,44.0,6.0,14.0,45,Chilaquiles
+31,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ChickRedMole.JPG/1200px-ChickRedMole.JPG,Mexican,81185,4.666666666666667,115.9,7.0,21.0,19.0,9.0,3.0,5.0,15,Mole
+32,https://cdn.crownmediadev.com/4c/f1/2be5b57b4ff390602289bef7f79e/home-family-pork-tamales.jpg,Mexican,72065,3.0,344.5,32.0,1.0,18.0,34.0,22.0,7.0,70,Tamales
+33,https://images.media-allrecipes.com/userphotos/392206.jpg,Mexican,37639,-1.0,955.4,125.0,22.0,12.0,59.0,141.0,9.0,150,Enchiladas Verdes
+34,https://www.daringgourmet.com/wp-content/uploads/2018/09/Pozole-Rojo-3-square-1.jpg,Mexican,405929,5.0,1320.3,130.0,50.0,32.0,172.0,143.0,17.0,145,Pozole
+35,https://www.thespruceeats.com/thmb/YP9w1kCLxRrZhOuNxEqKlUL6xYU=/1247x935/smart/filters:no_upscale()/tacosalpastor-5b65b59046e0fb00825d491b.jpg,Mexican,99043,5.0,1300.3,63.0,70.0,62.0,175.0,58.0,47.0,80,Tacos al Pastor
+36,https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2019/05/tortilla-espa%C3%B1ola.jpg,Spanish,475591,-1.0,285.0,41.0,10.0,51.0,14.0,23.0,1.0,45,Tortilla de patatas
+37,https://www.donnamoderna.com/wp-content/uploads/2008/08/ricetta-paella-piccante-alla-valenciana-725x545.jpg,Spanish,439143,-1.0,462.6,26.0,13.0,42.0,56.0,22.0,14.0,70,Paella
+38,https://www.seriouseats.com/recipes/images/2015/09/20150910-pan-con-tomate-kenji-10-1500x1125.jpg,Spanish,197709,5.0,196.2,3.0,10.0,16.0,13.0,2.0,12.0,3,Pan con tomate
+39,https://assets.epicurious.com/photos/57aa23ebde966cd27ad74903/2:1/w_1260%2Ch_630/chorizo.jpg,Spanish,190891,5.0,72.5,7.0,0.0,6.0,5.0,10.0,1.0,35,Chorizo
+40,https://estaticos.miarevista.es/uploads/images/recipe/5982eb825cafe8a4103c986a/pulpoalagallega_0.jpg,Spanish,60083,-1.0,281.2,3.0,8.0,22.0,72.0,2.0,8.0,40,Pulpo a la gallega
+41,https://upload.wikimedia.org/wikipedia/commons/1/16/Patatas_bravas_madrid.jpg,Spanish,66329,4.0,245.6,21.0,15.0,1.0,6.0,9.0,8.0,40,Patatas bravas
+42,http://farm4.staticflickr.com/3870/14829534336_663204478b_z.jpg,Spanish,254556,4.0,281.0,22.0,8.0,24.0,22.0,20.0,8.0,20,Croquetas
+43,https://www.bascofinefoods.com/spanish-recipes-wpfiles/wp-content/uploads/2018/11/ensaladilla-rusa.jpg,Spanish,229277,-1.0,395.4,26.0,17.0,16.0,25.0,14.0,16.0,1820,Ensaladilla Rusa
+44,https://www.fromagesuisse.ch/fileadmin/_processed_/8/6/csm_recipe_2234_141e08ad67.jpg,Swiss,84797,4.142857142857143,1615.2,154.0,323.0,74.0,182.0,193.0,30.0,25,Fondue
+45,https://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2017/04/18144734/fc48ho050-02-main.jpg,Swiss,86768,4.0,4076.9,491.0,1181.0,71.0,53.0,1001.0,118.0,15,Rosti
+46,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raclette2.jpg/220px-Raclette2.jpg,Swiss,125467,-1.0,503.8,21.0,32.0,1.0,20.0,10.0,29.0,40,Raclette
+47,https://sugarfreelondoner.com/wp-content/uploads/2019/05/sugar-free-milk-chocolate.jpg,Swiss,33778,4.4,1062.0,57.0,707.0,11.0,6.0,117.0,62.0,15,milk chocolate
+48,https://m.bettybossi.ch/static/rezepte/x/bb_flfi140804_0017a_x.jpg,Swiss,471844,-1.0,478.8,51.0,8.0,7.0,63.0,82.0,3.0,45,Zurcher geschnetzeltes
+49,https://assets.afcdn.com/recipe/20160401/38946_w1024h768c1cx2690cy1793.jpg,Swiss,40601,4.0,436.9,23.0,14.0,18.0,28.0,47.0,17.0,50,Tartiflette
+50,https://cdn-image.foodandwine.com/sites/default/files/styles/medium_2x/public/200212-r-xl-leckerli.jpg?itok=-IjjOeMy,Swiss,105022,-1.0,63.6,0.0,25.0,0.0,2.0,0.0,4.0,60,Leckerli
+51,https://images-gmi-pmc.edge-generalmills.com/4eeb9f6d-5f02-4db5-85a4-75fe6f62ee75.jpg,French,320465,-1.0,422.7,43.0,4.0,5.0,50.0,35.0,1.0,50,Coq au vin
+52,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bowl_of_cassoulet.JPG/1200px-Bowl_of_cassoulet.JPG,French,299133,-1.0,763.1,59.0,26.0,99.0,83.0,76.0,18.0,45,Cassoulet
+53,https://static.cuisineaz.com/400x320/i94631-boeuf-bourguignon.jpg,French,148709,5.0,287.2,16.0,44.0,33.0,10.0,33.0,10.0,150,Beef bourguignon
+54,https://i1.wp.com/www.piccolericette.net/piccolericette/wp-content/uploads/2015/11/1298_ratatouille.jpg?resize=895%2C616&ssl=1,French,388345,4.75,113.8,7.0,11.0,7.0,7.0,3.0,5.0,95,Ratatouille
+55,https://www.vzug.com/medias/sys_master/recipeimages/recipeimages/h17/h66/8981687631902/recipe-img-slide.jpg,French,475313,3.0,982.9,88.0,295.0,11.0,14.0,135.0,39.0,80,Tarte tatin
+56,https://images-3662.kxcdn.com/fidelitynews/wp-content/uploads/sites/6/2018/01/1517219140_f055c0757a72a3a48b267d0878cf5344e3a3f6b1-1517074283.png?w=580,Italian,160696,5.0,550.9,37.0,5.0,13.0,58.0,65.0,17.0,20,Pasta Carbonara
+57,https://i2.wp.com/www.viaggi-lowcost.info/wp-content/uploads/2014/04/arancino.jpg?resize=655%2C340&ssl=1,Italian,75750,4.5,621.2,50.0,9.0,33.0,51.0,88.0,18.0,24,Arancini
+58,https://www.ricettapizzanapoletana.it/wp-content/uploads/2019/07/pizza-napoletana.jpg,Italian,270311,3.0,852.2,104.0,19.0,64.0,103.0,160.0,3.0,50,Pizza Margherita
+59,http://www.aiafood.com/sites/default/files/styles/resize_to_half/public/recipes/lasagne.jpg?itok=7dBa-1KJ&timestamp=1484664262,Italian,224037,4.0,462.9,53.0,28.0,33.0,46.0,94.0,4.0,80,Lasagne
+60,https://www.salepepe.it/files/2014/03/ricetta-parmigiana-melanzane_7-850x638.jpg,Italian,455952,5.0,180.2,19.0,12.0,12.0,20.0,38.0,3.0,35,Parmigiana 
+61,https://www.primariepd2013.it/wp-content/uploads/2018/07/Bucatini-alla-Amatriciana.jpg,Italian,351191,5.0,518.1,8.0,29.0,34.0,42.0,13.0,31.0,45,Pasta Amatriciana
+62,https://www.negroni.com/sites/negroni.com/files/styles/scale__1440_x_1440_/public/saltimbocca-alla-romana.jpg?itok=GW4qGrGw,Italian,231225,5.0,160.1,23.0,1.0,0.0,0.0,32.0,0.0,30,Saltimbocca alla romana
+63,https://blog.giallozafferano.it/allacciateilgrembiule/wp-content/uploads/2018/12/torrone-casa.jpg,Italian,200133,-1.0,215.4,7.0,159.0,0.0,5.0,2.0,14.0,90,Torrone
+64,http://cdn.cook.stbm.it/thumbnails/ricette/9/9648/hd750x421.jpg,Italian,25259,3.0,509.8,22.0,296.0,4.0,21.0,46.0,27.0,745,Tiramisu
+65,https://newfoodcity.de/wp-content/uploads/2018/05/wiener-schnitzel.jpg,Austrian,523359,-1.0,259.7,23.0,18.0,31.0,34.0,28.0,4.0,55,Wiener Schnitzel
+66,https://www.gutekueche.at/img/rezept/27962/omas-tafelspitz-aus-dem-dampfgarer.jpg,Austrian,424874,5.0,881.1,93.0,30.0,59.0,86.0,121.0,12.0,135,Tafelspitz
+67,https://img.chefkoch-cdn.de/rezepte/853001190787851/bilder/1196458/crop-360x240/gulasch-suedtiroler-art.jpg,Austrian,382187,-1.0,2479.2,392.0,22.0,29.0,60.0,509.0,4.0,90,Gulasch
+68,https://www.google.com/search?rlz=1C1GCEU_enCH819CH819&biw=1463&bih=780&tbm=isch&sxsrf=ACYBGNTXoKJAwGvLbFNWVoKsI6gWf672ZQ%3A1570873195900&sa=1&ei=a5-hXd7DNs_QwQKd-4yACA&q=Sachertorte&oq=Sachertorte&gs_l=img.3..0l2j0i30l7j0i5i30.12813.12813..13455...0.0..0.57.57.1......0....2j1..gws-wiz-img.tUJ0ql4l6Pk&ved=0ahUKEwiepdDWtpblAhVPaFAKHZ09A4AQ4dUDCAc&uact=5,Austrian,56612,-1.0,9184.3,841.0,2592.0,109.0,239.0,1408.0,391.0,80,Sachertorte
+69,https://www.gusto.at/_storage/asset/7971722/storage/womanat:slideshow-large/file/115567564/57899139.jpg,Austrian,448399,-1.0,660.0,50.0,198.0,27.0,50.0,88.0,22.0,30,Palatschinken
+70,https://www.kuechengoetter.de/uploads/media/960x960/06/57706-kaiserschmarrn.jpg?v=2-8,Austrian,460128,-1.0,328.0,20.0,26.0,7.0,24.0,33.0,13.0,25,Kaiserschmarrn
+71,"https://images.lecker.de/,id=6856db19,b=lecker,w=610,cg=c.jpg",Austrian,424845,-1.0,298.6,20.0,70.0,6.0,6.0,35.0,13.0,150,Apfelstrudel
