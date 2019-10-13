@@ -5,4 +5,4 @@ http://theport.ch/home/the-port-2019/
 
 ## First Mockup for user experience
 
-![mockup](mockup_demo.png width="100")
+![mockup](mockup_demo.png)
